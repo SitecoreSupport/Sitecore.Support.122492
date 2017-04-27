@@ -55,7 +55,7 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CheckPreconditions.cs" />
+    <Compile Include="Analytics\Pipelines\StartAnalytics\CheckPreconditions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
